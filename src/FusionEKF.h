@@ -44,6 +44,14 @@ class FusionEKF {
   Eigen::MatrixXd R_radar_;
   Eigen::MatrixXd H_laser_;
   Eigen::MatrixXd Hj_;
+
+  // 13 Laser Measurements Part 3: Helpful Equations
+  // In the tracking class
+  // σax2\sigma_{ax}^2 σax2​ = noise_ax
+  // and
+  // σay2\sigma_{ay}^2 σay2​ = noise_ay
+  float noise_ax;
+  float noise_ay;
 };
 
 #endif // FusionEKF_H_
