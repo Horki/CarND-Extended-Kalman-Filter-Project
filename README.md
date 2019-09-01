@@ -48,10 +48,10 @@ Here is the main protocol that main.cpp uses for uWebSocketIO in communicating w
 ## Result Examples
 
 * Dataset One
-[![IMAGE ALT TEXT HERE](img/dataset_one.png)](https://www.youtube.com/watch?v=jhdpXMxc5Ew)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jhdpXMxc5Ew/0.jpg)](https://www.youtube.com/watch?v=jhdpXMxc5Ew)
 
 * Dataset Two
-[![IMAGE ALT TEXT HERE](img/dataset_two.png)](https://www.youtube.com/watch?v=6Wf5wgsZSjo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6Wf5wgsZSjo/0.jpg)](https://www.youtube.com/watch?v=6Wf5wgsZSjo)
 
 ---
 
